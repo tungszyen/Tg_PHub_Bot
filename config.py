@@ -9,5 +9,5 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    Bot_token = "Insert Bot_Token Here"
-    ARQ_API_KEY = "Get this from @ARQRobot"
+    Bot_token = "5037896180:AAHi3GyUiUjo8XWGkL69Jc13OObLIZXgwyk"
+    ARQ_API_KEY = "IYXBEO-IGEQZC-XLRGWO-GAAEZR-ARQ"
